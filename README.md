@@ -1,3 +1,2 @@
 # PizzaBillGenerator
-this is a Java Program.
-Only Using Core-Java & OOPS.
+this is a Minor-Java-Project.In this project I Create a Pizza Bill Generator by Using Core-Java & OOPS.
